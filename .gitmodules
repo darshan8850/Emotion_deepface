@@ -1,0 +1,3 @@
+[submodule "bing-chat"]
+	path = bing-chat
+	url = https://github.com/transitive-bullshit/bing-chat
